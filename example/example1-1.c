@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /*
  * Tell the compiler that we intend to use a function called show_message.
